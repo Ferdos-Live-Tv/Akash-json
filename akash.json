@@ -1,0 +1,135 @@
+[
+    {
+        "id": 2,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png",
+        "channelName": "Independent TV",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=independent_tv"
+    },
+    {
+        "id": 3,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png",
+        "channelName": "Ekattor HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=ekattor_hd"
+    },
+    {
+        "id": 5,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png",
+        "channelName": "Animal Planet",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=animal_plannet"
+    },
+    {
+        "id": 6,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png",
+        "channelName": "ATN News",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/5dddba2c4d6242f8a97e86ea9e77a464/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=atn_news"
+    },
+    {
+        "id": 8,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png",
+        "channelName": "Star Movies HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=star_movies_hd"
+    },
+    {
+        "id": 14,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png",
+        "channelName": "NTV",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=ntv"
+    },
+    {
+        "id": 15,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png",
+        "channelName": "Bangla Vision",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=bangla_vision"
+    },
+    {
+        "id": 16,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png",
+        "channelName": "BTV",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/4a5545d79c7a47ebb451eac8db300226/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=btv"
+    },
+    {
+        "id": 17,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png",
+        "channelName": "Somoy TV",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=somoy_tv"
+    },
+    {
+        "id": 18,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png",
+        "channelName": "ZEE BANGLA",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=zee_bangla"
+    },
+    {
+        "id": 19,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png",
+        "channelName": "RTV HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=rtv_hd"
+    },
+    {
+        "id": 20,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",
+        "channelName": "Cineplex HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=cineplex_hd"
+    },
+    {
+        "id": 21,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png",
+        "channelName": "Colors Bangla",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=colors_bangla"
+    },
+    {
+        "id": 22,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png",
+        "channelName": "Colors HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=colors_hd"
+    },
+    {
+        "id": 24,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png",
+        "channelName": "Disney Jr",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/e08a102ae926476490eeff90e739e7e0/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=disney_jr"
+    },
+    {
+        "id": 27,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927242201.png",
+        "channelName": "Disney Channel",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/013c69168859484fb61019ddbc730cce/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=disney_channel"
+    },
+    {
+        "id": 30,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926589458.png",
+        "channelName": "BBC News",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/3d5c5c96a0c24df3a3b5053464a4fdbb/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=bbc_news"
+    },
+    {
+        "id": 32,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927437128.png",
+        "channelName": "Discovery HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/c6de9f08ff1b47679dbf5c08c3038d4c/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=discovery_hd"
+    },
+    {
+        "id": 35,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927407321.png",
+        "channelName": "Animal Planet HD",
+        "protectedDashWidevineConsumerUrl": "https://medialive.akash-go.com/out/v1/0ae585c5d59d447ab5d274f9294b50e0/index.mpd",
+        "dashWidevineLicenseUrl": "https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=animal_plannet_hd"
+    }
+]
